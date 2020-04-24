@@ -41,7 +41,7 @@
                </div>
               </div>
               <div class="coffee-cup">
-                <img src="img/americano.png" alt="">
+                <img class="d-none" src="#" alt="">
               </div>
             </div>
             <div class="col-6">
